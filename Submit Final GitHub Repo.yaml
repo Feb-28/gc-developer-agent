@@ -1,0 +1,39 @@
+
+📎 外部リンク
+
+GitHub Repo: 🔒 Internal 
+
+
+NotebookLM構成: 🔒 Internal 
+
+---
+
+## 🟢 ② `Upload TSV + Markdown to GitHub`
+
+### 📁 推奨構成（README.md）
+
+```markdown
+# GC DeveloperAgent
+
+> 自然言語からGoogle Cloudを自動操作する、Gemini × ArkSystem統合型AIエージェント
+
+## 📦 構成内容
+
+- `developer_agent.js` : Cloud Run / IAM自動構成
+- `tsv_evaluator.ts` : 出力構造のTSVスコア計算
+- `gemini_tool.json` : Gemini Flash統合用Tool定義
+- `zenn_submission.md` : 提出用記事（Scrap向け）
+- `notebooklm_summary.yaml` : NotebookLM連携YAML
+- `audit_log.tsv` : 承認履歴ログ（ArkSecINT）
+
+## ✅ 使用技術
+
+- Gemini API / Google Cloud IAM / Firestore
+- ArkSecINT × Feedback Loop × 擬似名制御
+- Markdown / Mermaid / YAML / TSV
+
+## 🔐 公開設定
+
+- Scrap提出：限定公開（リンク型）
+- GitHub：Private（またはUnlisted Repo推奨）
+
