@@ -26,11 +26,17 @@
     -   **Schema Artisan:** あなたの曖昧な要求から、最適なデータベース構造を設計します。
 -   **ペインポイント駆動開発:** 初心者がつまずきやすいポイントを先回りして解決する、ユーザー中心の設計思想です。
 
-## 🚀 デモ
+## 🚀 デモ & 成果物ハブ
 
-私たちのエージェントが実際にどのように動作するかは、以下のデモ動画をご覧ください。
+私たちのプロジェクトの全ては、以下の「プロジェクト・ハブ」ページに集約されています。
+まずは、こちらのページからデモ動画をご覧ください。
 
-**https://youtu.be/ior9hUOrBII**
+**[プロジェクト・ハブはこちら](https://Feb-28.github.io/gc-developer-agent/)**
+
+また、各成果物へは以下のリンクからも直接アクセスできます。
+
+- **デモ動画:** (https://youtu.be/ior9hUOrBII?si=xNoibi2FKShOnyDi)
+- **プレゼン資料:** (https://gamma.app/docs/GCAIGoogle-Cloud-Nexus-Agents-rw9mn0eaio91vpk?mode=doc)
 
 ## 🛠️ 技術スタック
 
