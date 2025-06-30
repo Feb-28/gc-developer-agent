@@ -35,7 +35,7 @@
 
 また、各成果物へは以下のリンクからも直接アクセスできます。
 
-- **デモ動画:** (https://youtu.be/ior9hUOrBII?si=xNoibi2FKShOnyDi)
+- **デモ動画:** (https://youtu.be/ior9hUOrBII?si=fr_xali5fuxbboVA)
 - **プレゼン資料:** (https://gamma.app/docs/GCAIGoogle-Cloud-Nexus-Agents-rw9mn0eaio91vpk?mode=doc)
 
 ## 🛠️ 技術スタック
@@ -57,7 +57,7 @@
 
 本プロジェクトの開発背景や、私たちが込めた想いについては、以下のZenn記事で詳しく語っています。
 
-**https://zenn.dev/hiromasa_koshi/scraps/b4ef75246a7d8b**
+**https://zenn.dev/hiromasa_koshi/articles/5542ff22c55718**
 
 ## チーム
 
