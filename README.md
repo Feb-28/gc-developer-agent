@@ -30,7 +30,7 @@
 
 私たちのエージェントが実際にどのように動作するかは、以下のデモ動画をご覧ください。
 
-**https://youtube.com/shorts/AhmqoIbkZHw**
+**https://youtu.be/ior9hUOrBII**
 
 ## 🛠️ 技術スタック
 
