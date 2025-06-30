@@ -36,7 +36,7 @@
 また、各成果物へは以下のリンクからも直接アクセスできます。
 
 - **デモ動画:** (https://youtu.be/ior9hUOrBII?si=fr_xali5fuxbboVA)
-- **プレゼン資料:** (https://gamma.app/docs/GCAIGoogle-Cloud-Nexus-Agents-rw9mn0eaio91vpk?mode=doc)
+- **プレゼン資料:** (https://gamma.app/docs/GC-AI-Google-Cloud-Nexus-Agents-rw9mn0eaio91vpk)
 
 ## 🛠️ 技術スタック
 
